@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi! I am Sakura and I am a student at the University of Notre Dame studying Political Science, Applied Math, and Computing and Digital Technologies. 
+
 <!--
 **sakura-yamanaka/sakura-yamanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
