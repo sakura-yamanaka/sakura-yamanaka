@@ -1,6 +1,25 @@
-## Hi there 👋
+## Hello, I'm Sakura! 👋
 
-Hi! I am Sakura and I am a student at the University of Notre Dame studying Political Science, Applied Math, and Computing and Digital Technologies. 
+:round_pushpin:New York City / University of Notre Dame
+
+:email:Email: sakura.yamanaka@gmail.com
+
+:link:LinkedIn: [Sakura Yamanaka](www.linkedin.com/in/sakura-yamanaka)
+
+:cherry_blossom: **About Me**
+
+I am a sophomore Hesburgh-Yusko Scholar at the University of Notre Dame majoring in Political Science & Applied Computational Mathematics and Statistics (ACMS) with a minor in Computing and Digital Technologies. I am interested in exploring the intersection between technology and law.
+
+:star2: **Work Experience**
+
+- Data Analyst, Women's Microfinance Initative
+- Chief Digital Editor, Notre Dame Beyond Politics Undergraduate Journal of Political Science
+- Director of Community Outreach, Executive Cabinet, Notre Dame Student Government
+
+:computer: **Technical Skills**
+
+- Languages: Python, Stata
+- Skills: data analysis, data visualization, multiple linear regression
 
 <!--
 **sakura-yamanaka/sakura-yamanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
