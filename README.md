@@ -4,7 +4,7 @@
 
 :email:Email: sakura.yamanaka@gmail.com
 
-:link:LinkedIn: [Sakura Yamanaka]((www.linkedin.com/in/sakura-yamanaka))
+:link:LinkedIn: [Sakura Yamanaka](https://www.linkedin.com/in/sakura-yamanaka)
 
 :cherry_blossom: **About Me**
 
