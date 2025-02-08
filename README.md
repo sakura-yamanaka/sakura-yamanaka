@@ -1,6 +1,6 @@
 ## Hello, I'm Sakura! 👋
 
-![My Profile Picture](assets/images/profilepicture.jpeg)
+![My Profile Picture](profilepicture.jpeg)
 
 :round_pushpin:New York City / University of Notre Dame
 
