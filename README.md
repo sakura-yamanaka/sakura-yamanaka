@@ -1,5 +1,7 @@
 ## Hello, I'm Sakura! 👋
 
+![Alt text](path/to/01719507-f077-41f9-92ad-ab11e0e0ce54.jpeg)
+
 :round_pushpin:New York City / University of Notre Dame
 
 :email:Email: sakura.yamanaka@gmail.com
