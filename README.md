@@ -1,6 +1,6 @@
 ## Hello, I'm Sakura! 👋
 
-![Alt Text](https://raw.githubusercontent.com/sakura-yamanaka/sakura-yamanaka/main/assets/images/profilepicture.jpeg)
+![My Profile Picture](assets/images/profilepicture.jpeg)
 
 :round_pushpin:New York City / University of Notre Dame
 
