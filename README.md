@@ -1,8 +1,11 @@
 ## Hello, I'm Sakura! 👋
 
 :round_pushpin:New York City / University of Notre Dame
+
 :email:Email: sakura.yamanaka@gmail.com
+
 :link:LinkedIn: [Sakura Yamanaka](https://www.linkedin.com/in/sakura-yamanaka)
+
 :: GitHub: [sakura-yamanaka]()
 
 :cherry_blossom: **About Me**
