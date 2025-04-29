@@ -10,7 +10,7 @@
 
 :cherry_blossom: **About Me**
 
-I am a sophomore Hesburgh-Yusko Scholar majoring in **Political Science** and **Applied & Computational Mathematics and Statistics (ACMS)** with a minor in **Computing and Digital Technologies** at the University of Notre Dame. Passionate about the intersection of **technology, politics, and justice**, I aim to harness data science to advance human rights and the common good. 
+I am a sophomore Hesburgh-Yusko Scholar majoring in **Political Science** and **Applied & Computational Mathematics and Statistics (ACMS)** with a minor in **Computing and Digital Technologies** at the University of Notre Dame. Passionate about the intersection of **technology, politics, and justice**, I aim to harness computing and data science to advance human rights and the common good. 
 
 :star2: **Professional Highlights**
 
