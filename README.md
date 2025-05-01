@@ -31,7 +31,7 @@ I am a Hesburgh-Yusko Scholar majoring in **Political Science** and **Applied & 
 ### :books:**Current Projects** ###
 - Building my [Python Portfolio](https://github.com/sakura-yamanaka/Yamanaka-Python-Portfolio.)
   - Projects focused on building streamlit apps, data cleaning, natural language processing, and more
-- Completing a research paper [*"Flagged for Failure: Surveillance, Schools, and the Automation of Injustice"*](https://drive.google.com/file/d/1TswplNTvWETGA3quQQtlZMrTPuiEvIxe/view?usp=sharing)  
+- Completing my research paper [*"Flagged for Failure: Surveillance, Schools, and the Automation of Injustice"*](https://drive.google.com/file/d/1TswplNTvWETGA3quQQtlZMrTPuiEvIxe/view?usp=sharing)  
   - Analyzing the Pasco County Sheriff’s Office’s use of predictive policing algorithms in public schools  
   - Investigating how surveillance-based interventions contribute to systemic inequality and the school-to-prison
     pipeline
